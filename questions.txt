@@ -1,0 +1,57 @@
+Class & Object
+Write a program to create a class Student with attributes name, rollNo, and marks, and display student details.
+
+Write a program to demonstrate how to create multiple objects of a class and access their data.
+
+Write a program to count the number of objects created using a static variable.
+
+🔹 Inheritance
+Write a program to implement single inheritance (e.g., Animal → Dog).
+
+Write a program to implement multilevel inheritance (e.g., Person → Employee → Manager).
+
+Write a program to implement hierarchical inheritance.
+
+Write a program to override a method from the parent class in the child class.
+
+🔹 Polymorphism
+Write a program to demonstrate method overloading in Java.
+
+Write a program to demonstrate method overriding using inheritance.
+
+Write a program to show compile-time vs run-time polymorphism.
+
+Create a calculator using method overloading for different input types.
+
+🔹 Encapsulation
+Write a program to create a class with private variables and access them using getters and setters.
+
+Write a program to demonstrate the benefit of encapsulation by validating age in the setter method.
+
+🔹 Abstraction
+Write a program using abstract class with abstract and non-abstract methods.
+
+Write a program using interface with multiple classes implementing it.
+
+Write a program to demonstrate multiple inheritance using interfaces.
+
+Write a program to create a shape interface with methods to calculate area for Circle, Rectangle, and Triangle.
+
+🔹 Constructor
+Write a program to demonstrate default and parameterized constructors.
+
+Write a program to implement constructor overloading.
+
+Write a program to use the this keyword to call a constructor from another constructor (constructor chaining).
+
+🔹 'this' and 'super' Keywords
+Write a program to demonstrate the use of this keyword.
+
+Write a program to use super to call parent class constructor and method.
+
+🔹 OOPs Project Ideas (Mini Projects)
+Create a simple Bank Account program with deposit, withdraw, and balance check features.
+
+Create a Library Management system using OOPs.
+
+Build a Student Management System using encapsulation and inheritance.
