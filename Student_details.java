@@ -14,7 +14,7 @@ public class Student_details {
 
             System.out.print("Name");
             String name = input.nextLine();
-            input.nextLine();
+            
 
             System.out.print("Rollno");
             int rollno = input.nextInt();
